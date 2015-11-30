@@ -1,0 +1,40 @@
+Array[月曜Mon] => 
+  Array[主菜main] => 
+  Array[主食dish] => 
+  Array[サブsub] => | | 
+
+Array[火曜] => 
+  Array[主菜] => 
+  Array[主食] => 
+  Array[サブ] => | |
+
+Array[水曜] => 
+  Array[主菜] => |
+  Array[主食] => |
+  Array[サブ] => | |
+
+Array[木曜] => 
+  Array[主菜] => |
+  Array[主食] => |
+  Array[サブ] => | |
+
+Array[金曜] => 
+  Array[主菜] => |
+  Array[主食] => |
+  Array[サブ] => | |
+
+Array[土曜] => 
+  Array[主菜] => |
+  Array[主食] => |
+  Array[サブ] => | |
+
+Array[日曜] => 
+  Array[主菜] => |
+  Array[主食] => |
+  Array[サブ] => | |
+
+主菜の中身は料理名
+同じジャンルで料理名が2つ選択されていた場合は | で分割する．
+例＞
+  カレーライス|チャーハン
+  
